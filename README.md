@@ -18,7 +18,7 @@
 
 ### Download:
 - Link to download macro-enabled doc file and instructions 
-   <a href="https://github.com/fremen432/Microsoft-Word---DOCX-to-PDF-converter/releases/latest">here</a>.
+   <a href="https://github.com/fremen432/Microsoft-Word---DOCX-to-PDF-converter/releases/latest">here</a> under Assets > release.zip
 
 ### Instructions:
 
