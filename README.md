@@ -1,8 +1,9 @@
-# VBA Macro - DOCX to PDF Converter
+# Microsoft Word - DOCX to PDF converter
 
 ### Description:
 
--   UserForm application in Microsoft Word for converting .docx file into .pdf files. 
+-   Microsoft Word UserForm application for converting .docx files into .pdf files.
+
 <!-- <a id="raw-url" href="https://fremen432.github.io/Password-Generator-JS/">Click to view Live Page </a>. -->
 <!-- -   Windows desktop application built with Electron toolkit. <a id="raw-url" href="https://github.com/fremen432/Password-Generator-JS/releases/download/Password-Generator/Password-Generator-win32-x64.zip">Click to download </a>. -->
 
