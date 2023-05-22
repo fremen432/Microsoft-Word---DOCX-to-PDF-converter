@@ -15,10 +15,15 @@
     <img src="./assets/screen_recording/screen_recording.gif" width="1200px">
 </div>
 
+
+### Download:
+- Link to download macro-enabled doc file and instructions 
+   <a href="https://github.com/fremen432/Microsoft-Word---DOCX-to-PDF-converter/releases/latest">here</a>.
+
 ### Instructions:
 
-1. Open the “DOCX to PDF Converter.docm” macro-enabled doc file found in releases.
-2. To activate the macro, press Alt + F8 to open “Macros” Dialog box, make sure “DOCX to PDF Converter (document)” is selected in the “Macros in:” drop-down list.
+1. Open the “DOCX to PDF Converter.docm” macro-enabled doc file. 
+2. To activate the macro, press Alt + F8 to open “Macros” dialog box, make sure “DOCX to PDF Converter (document)” is selected in the “Macros in:” drop-down list.
 
 <div align="center">
     <img src="./assets/images/instructions_01.png" width="500px">
