@@ -17,7 +17,7 @@
 
 ### Instructions:
 
-1. Open the “DOCX to PDF Converter.docm” file found in releases.
+1. Open the “DOCX to PDF Converter.docm” macro-enabled doc file found in releases.
 2. To activate the macro, press Alt + F8 to open “Macros” Dialog box, make sure “DOCX to PDF Converter (document)” is selected in the “Macros in:” drop-down list.
 
 <div align="center">
